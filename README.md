@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insane</h1>
-<h3 align="center">Noob Developer | Cyber Security | Bulgaria</h3>
+<h3 align="center">Noob Developer | Legit seller | Cyber Security | Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insane4ou&label=Profile%20views&color=0e75b6&style=flat" alt="insane4ou" /> </p>
 
